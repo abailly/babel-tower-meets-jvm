@@ -18,23 +18,31 @@
 
 - Java has evolved: Once a fringe language for *applets* on the web, now a full-fledged ecosystem
 - JVM is a sophisticated and performant runtime abstracting away from (most of) the gory hardware details
-- "Java The Language" has not evolved as much as the "Java The Platform"
+- Java The Language has not evolved as much as the Java The Platform
 - Class-Based Statically-Typed Object-Orientation is *One* paradigm of programming
 - Some languages are closer to some problems expression than other
 
 # Fantom: A better Java
 
+![](fantomas.jpg)
+
 # Fantom
 
 # Frege: Haskell on the JVM
 
+![](frege.jpg)
+
 # Frege
 
-# Ioke: Extreme Dynamicity
+# Ioke: Prototypes Everywhere
+
+![](ioke.jpg)
 
 # Ioke 
 
 # Common Lisp: More Parens
+
+![](mccarthy.jpg)
 
 # Common Lisp
 
@@ -48,17 +56,7 @@
 
 # Credits
 
-- [Bath's Jacob's Ladder](http://en.wikipedia.org/wiki/File:Himnastigi.jpg)
-- [Augsburg Barfüßerkirche](http://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Augsburg_Barf%C3%BC%C3%9Ferkirche_013.jpg/822px-Augsburg_Barf%C3%BC%C3%9Ferkirche_013.jpg)
-- [Drawing commutative diagrams in Latex with TikZ](http://www.felixl.de/commu.pdf)
-- [Chantier de l'hôtel de Ville de Montpellier](http://fr.wikipedia.org/wiki/Fichier:Montpellier_HotelVille_chantier_24052009b.JPG)
-- [La trahison des images, R.Magritte](http://4.bp.blogspot.com/-Fr0QXP65ook/Tg5eZZxTSaI/AAAAAAAAAG4/6LgvdRHPHvE/s1600/rene_magritte-la_trahison_des_images-1300px.jpg)
-- [The joy of cats](http://katmat.math.uni-bremen.de/acc/acc.pdf)
-- [Le jardin des délices](http://www.histoiredelart.net/artistes/XV/tableaux_bosch/Bosch-Jardin_des_delices-1504.jpg)
-- [Forest](http://www.dinosoria.com/foret-1/images/foret_jpg.jpg)
-- [Jungle](http://everydaybipolar.files.wordpress.com/2011/09/jungle2.jpg)
-
-
-# This is the end...
-
-![](figures/cheshire2.jpg)
+- [Fantomas](http://www.mobipocket.com/eBooks/cover_remote/ID1793/fantomas%20900.jpg)
+- [Gottlöb Frege](http://www.yourbest100.com/pic/people/philosophers/gottlob-frege.jpg)
+- [Ioke](http://upload.wikimedia.org/wikipedia/commons/a/a8/Hurricane_Ioke,_MODIS_image_on_August_24,_2006,_2155_UTC.jpg)
+- [John McCarthy](http://www.alpcentauri.info/John_McCarthy_Stanford.jpg)
