@@ -1,4 +1,4 @@
-% Babel Tower Meets JVM
+% Tower of Babel Meets the JVM
 % Eric Lefevre-Ardant - Arnaud Bailly
 % 2012/04/06
 
