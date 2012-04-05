@@ -24,7 +24,7 @@
 
 - To instill the desire of discovering different programming paradigms
 - To provide introductory materials on those different paradigms
-- To get ouf of our comfort zone
+- To get out of our comfort zone
 - To have fun!
 
 # Fantom: A Better Java
@@ -32,6 +32,13 @@
 ![](fantomas.jpg)
 
 # Fantom
+
+- Very similar to Java/C#
+- Functions
+- Lots of (reasonable) syntactic sugar
+- Better handling of null
+- Fantom bytecode executable on JVM and CLR
+- Support for Mixins
 
 # Frege: Haskell on the JVM
 
@@ -50,6 +57,11 @@
 ![](loki.jpg)
 
 # Ioke
+
+- A learning tool for Ola Bini
+- Prototype-based
+- Homoiconic
+- Main goal is expressiveness
 
 # Common Lisp: More Parens
 
