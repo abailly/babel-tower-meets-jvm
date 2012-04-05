@@ -12,8 +12,6 @@
 - Outro
 - Discussion
 
-# Introduction
-
 # Why Different Languages?
 
 - Java has evolved: Once a fringe language for *applets* on the web, now a full-fledged ecosystem
@@ -21,6 +19,13 @@
 - Java The Language has not evolved as much as the Java The Platform
 - Class-Based Statically-Typed Object-Orientation is *One* paradigm of programming
 - Some languages are closer to some problems expression than other
+
+# Goal of this Talk
+
+- To instill the desire of discovering different programming paradigms
+- To provide introductory materials on those different paradigms
+- To get ouf of our comfort zone
+- To have fun!
 
 # Fantom: A better Java
 
@@ -45,6 +50,16 @@
 ![](mccarthy.jpg)
 
 # Common Lisp
+
+- Common Lisp has numerous implementations with a few prominent ones
+- The ancestor of all modern languages 
+- Main features: Everything is a list, Powerful macros, Rich ecosystem, Multi-paradigms programming (OO, functional, imperative), DSL-ready, Lots of Parenthesis
+
+# Common Lisp - Getting Started
+
+- Download [Armed Bear Common Lisp](http://common-lisp.net/project/armedbear/) distribution which contains a self-standing jar
+- Best programming experience combines [Emacs](http://www.gnu.org/software/emacs/) (Lisp-aware editor) + [Quicklisp](http://www.quicklisp.org/) (package manager) + [Slime](http://common-lisp.net/project/slime/) (generic Lisp environment for Emacs)
+- To be more mainstream, you might want to try [Clojure](http://clojure.org/)
 
 # References
 
