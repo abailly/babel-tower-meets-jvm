@@ -39,6 +39,11 @@
 
 # Frege
 
+- A clone of [Haskell](http://haskell.org) on the JVM
+- A Pure Non-strict Statically-Typed Functional language: Rich type system, Functions everywhere, Powerful abstractions and combinations capabilities
+- Targets newest JVM (JDK 7)
+- Uses Eclipse as IDE through a dedicated plugin
+
 # Ioke: Prototypes Everywhere
 
 ![](ioke.jpg)
@@ -51,9 +56,9 @@
 
 # Common Lisp
 
-- Common Lisp has numerous implementations with a few prominent ones
-- The ancestor of all modern languages 
-- Main features: Everything is a list, Powerful macros, Rich ecosystem, Multi-paradigms programming (OO, functional, imperative), DSL-ready, Lots of Parenthesis
+- Common Lisp is one flavour of Lisp which is standardized
+- Recall that Lisp is the ancestor of all modern languages 
+- Everything is a list, Powerful macros, Rich ecosystem, Multi-paradigms programming (OO, functional, imperative), DSL-ready, Lots of Parenthesis
 
 # Common Lisp - Getting Started
 
