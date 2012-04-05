@@ -1,5 +1,3 @@
-use("ispec")
-
 labels = {3 => "Foo", 5 => "Bar", 7 => "Qix"}
 
 textForMultiples = method(number,
