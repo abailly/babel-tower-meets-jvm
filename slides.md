@@ -43,6 +43,7 @@
 - A Pure Non-strict Statically-Typed Functional language: Rich type system, Functions everywhere, Powerful abstractions and combinations capabilities
 - Targets newest JVM (JDK 7)
 - Uses Eclipse as IDE through a dedicated plugin
+- [Real World Haskell](http://book.realworldhaskell.org/read/) as thorough coverage of Frege's parent
 
 # Ioke: Prototypes Everywhere
 
@@ -65,6 +66,7 @@
 - Download [Armed Bear Common Lisp](http://common-lisp.net/project/armedbear/) distribution which contains a self-standing jar
 - Best programming experience combines [Emacs](http://www.gnu.org/software/emacs/) (Lisp-aware editor) + [Quicklisp](http://www.quicklisp.org/) (package manager) + [Slime](http://common-lisp.net/project/slime/) (generic Lisp environment for Emacs)
 - To be more mainstream, you might want to try [Clojure](http://clojure.org/)
+- [Land of Lisp](http://landoflisp.com/) is a must read for newbies
 
 # References
 
