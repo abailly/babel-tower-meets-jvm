@@ -1,0 +1,29 @@
+package Main where
+
+import frege.List
+import frege.IO (BufferedReader, `<<`)
+
+foobarqix :: Int -> String
+foobarqix x = case (hasElement 5 "Bar" • hasElement 3 "Foo" • isDividedBy 5 "Bar" • isDividedBy 3 "Foo" ) (x,"") of
+  (_, "") -> show x
+  (_,s)   -> s  
+
+isDividedBy n subst (x,str) | x `mod` n == 0 = (x, str ++ subst)
+                                            | otherwise           = (x,str)           
+            
+hasElement c subst (x,str) | chr (ord c + ord '0') `elem` toList (show x) = (x,str ++ subst)
+                                            | otherwise                                                      = (x,str)
+                              
+main _ = do
+  let testcases = [(1,"1"),
+                   (2,"2"),
+                   (3,"FooFoo"),
+                   (6,"Foo"),
+                   (13,"Foo"),
+                   (30,"FooBarFoo"),
+                   (10,"Bar"),
+                   (35,"BarFooBar")
+                   ]
+  let test (param, expected) = let fbq = foobarqix param 
+                               in (fbq, fbq == expected)
+  println (map test testcases)
