@@ -1,5 +1,5 @@
 % Babel Tower Meets JVM
-% Éric Lefevre-Ardant - Arnaud Bailly
+% Eric Lefevre-Ardant - Arnaud Bailly
 % 2012/04/06
 
 # Agenda
@@ -22,7 +22,7 @@
 - Class-Based Statically-Typed Object-Orientation is *One* paradigm of programming
 - Some languages are closer to some problems expression than other
 
-# Fantom: A better Java
+# Fantom: A Better Java
 
 ![](fantomas.jpg)
 
@@ -34,11 +34,11 @@
 
 # Frege
 
-# Ioke: Prototypes Everywhere
+# Ioke: Extreme Expressiveness
 
-![](ioke.jpg)
+![](loki.jpg)
 
-# Ioke 
+# Ioke
 
 # Common Lisp: More Parens
 
@@ -58,5 +58,5 @@
 
 - [Fantomas](http://www.mobipocket.com/eBooks/cover_remote/ID1793/fantomas%20900.jpg)
 - [Gottlöb Frege](http://www.yourbest100.com/pic/people/philosophers/gottlob-frege.jpg)
-- [Ioke](http://upload.wikimedia.org/wikipedia/commons/a/a8/Hurricane_Ioke,_MODIS_image_on_August_24,_2006,_2155_UTC.jpg)
+- [Loki, a god in Norse mythology](http://en.wikipedia.org/wiki/File:Processed_SAM_loki.jpg)
 - [John McCarthy](http://www.alpcentauri.info/John_McCarthy_Stanford.jpg)
