@@ -1,5 +1,5 @@
-% Babel Tower Meets JVM
-% Éric Lefevre-Ardant - Arnaud Bailly
+% Tower of Babel Meets the JVM
+% Eric Lefevre-Ardant - Arnaud Bailly
 % 2012/04/06
 
 # Agenda
@@ -24,14 +24,21 @@
 
 - To instill the desire of discovering different programming paradigms
 - To provide introductory materials on those different paradigms
-- To get ouf of our comfort zone
+- To get out of our comfort zone
 - To have fun!
 
-# Fantom: A better Java
+# Fantom: A Better Java
 
 ![](fantomas.jpg)
 
 # Fantom
+
+- Very similar to Java/C#
+- Functions
+- Lots of (reasonable) syntactic sugar
+- Better handling of null
+- Fantom bytecode executable on JVM and CLR
+- Support for Mixins
 
 # Frege: Haskell on the JVM
 
@@ -45,11 +52,16 @@
 - Uses Eclipse as IDE through a dedicated plugin
 - [Real World Haskell](http://book.realworldhaskell.org/read/) as thorough coverage of Frege's parent
 
-# Ioke: Prototypes Everywhere
+# Ioke: Extreme Expressiveness
 
-![](ioke.jpg)
+![](loki.jpg)
 
-# Ioke 
+# Ioke
+
+- A learning tool for Ola Bini
+- Prototype-based
+- Homoiconic
+- Main goal is expressiveness
 
 # Common Lisp: More Parens
 
@@ -80,5 +92,5 @@
 
 - [Fantomas](http://www.mobipocket.com/eBooks/cover_remote/ID1793/fantomas%20900.jpg)
 - [Gottlöb Frege](http://www.yourbest100.com/pic/people/philosophers/gottlob-frege.jpg)
-- [Ioke](http://upload.wikimedia.org/wikipedia/commons/a/a8/Hurricane_Ioke,_MODIS_image_on_August_24,_2006,_2155_UTC.jpg)
+- [Loki, a god in Norse mythology](http://en.wikipedia.org/wiki/File:Processed_SAM_loki.jpg)
 - [John McCarthy](http://www.alpcentauri.info/John_McCarthy_Stanford.jpg)
